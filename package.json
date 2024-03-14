@@ -1,0 +1,13 @@
+{
+  "name": "qr-gen-prj",
+  "version": "1.0.0",
+  "description": "Its a QR-Genrator project",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Jeffrey",
+  "license": "ISC"
+}
